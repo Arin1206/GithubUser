@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Github User</string>
     <string name="github">github</string>
-    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="searchbar_hint">Masukkan word</string>
     <string name="namauser"> nama</string>
     <string name="follower">%1$d Follower</string>
     <string name="following">%1$d Following</string>
